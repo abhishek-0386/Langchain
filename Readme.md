@@ -12,5 +12,5 @@
 * Add required key in this file
 
 ## To run the agents
-* streamlit run <file>.py 
+* streamlit run $filename$.py 
 

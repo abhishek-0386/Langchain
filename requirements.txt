@@ -6,4 +6,8 @@ langchain-core
 streamlit
 langchain-google-genai
 langchain-ollama
+uvicorn
+fastapi
+langserve
+sse_starlette
 

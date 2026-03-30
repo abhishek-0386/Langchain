@@ -14,3 +14,7 @@
 ## To run the agents
 * streamlit run $filename$.py 
 
+## To load text files as LangChain Documents
+* Run `python rag\document_loader.py` to load `rag\documents\sample.txt`
+* Or import `load_text_document` / `load_documents_from_folder` from `rag.document_loader`
+

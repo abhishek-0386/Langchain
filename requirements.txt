@@ -10,4 +10,11 @@ uvicorn
 fastapi
 langserve
 sse_starlette
-
+ipykernel
+bs4
+pypdf
+chromadb
+faiss-cpu
+langchain
+langchain-text-splitters
+imagine_langchain
